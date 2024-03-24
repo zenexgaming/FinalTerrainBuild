@@ -1,0 +1,7 @@
+SatGenDescClass {
+ FileName "C:/Users/Tenny/Desktop/mapfinal.png"
+ sRGBOutput 0
+ RenderRoads 1
+ Interpolation bilinear
+ RoadsAA "8x"
+}
