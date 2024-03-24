@@ -1,3 +1,7 @@
 GenericTerrainEntity FinalTerrain {
  Layers 193
 }
+Tree : "{A975A81D02F4862C}Prefabs/Vegetation/Tree/t_picea_abies_2s.et" {
+ coords 11506.84 -8.371 4871.548
+ scale 22.9
+}
