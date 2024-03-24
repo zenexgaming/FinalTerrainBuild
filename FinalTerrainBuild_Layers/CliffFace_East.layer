@@ -1,0 +1,112 @@
+$grp GenericEntity : "{2744DB5B79E2F462}PrefabLibrary/Rocks/Granite/GraniteCliff_03/GraniteCliff_03.et" {
+ {
+  coords 11111.191 28.069 17960.021
+  angleX 8.8
+  angleY 238.191
+  scale 4
+ }
+ {
+  coords 11122.958 38.766 17833.83
+  angleX 8.8
+  angleY 238.191
+  scale 4
+ }
+ {
+  coords 11083.877 35.196 18035.141
+  angleX 19.231
+  angleY -59.766
+  angleZ 15.777
+  scale 4
+ }
+ {
+  coords 11094.026 18.923 17901.137
+  angleX 22.93
+  angleY -118.716
+  angleZ -12.47
+  scale 4
+ }
+ {
+  coords 11175.741 53.278 17725.084
+  angleX 26.772
+  angleY -149.812
+  angleZ -6.505
+  scale 4
+ }
+ {
+  coords 11176.805 -2.752 17577.457
+  angleX 19.934
+  angleY -146.281
+  angleZ -18.937
+  scale 4
+ }
+ {
+  coords 11039.518 3.937 17954.027
+  angleX 19.318
+  angleY -60.094
+  angleZ 15.668
+  scale 4
+ }
+ {
+  coords 11141.214 60.212 17779.361
+  angleX 22.803
+  angleY -86.801
+  angleZ 9.843
+  scale 4
+ }
+ {
+  coords 11211.495 7.271 17514.98
+  angleX 26.242
+  angleY -150.1
+  angleZ -6.597
+  scale 4
+ }
+ {
+  coords 11167.972 13.089 17636.756
+  angleX 19.143
+  angleY -149.234
+  angleZ -6.262
+  scale 4
+ }
+ {
+  coords 11218.35 52.245 17597.189
+  angleX 38.685
+  angleY -123.974
+  angleZ 11.226
+  scale 4
+ }
+ {
+  coords 11184.285 37.574 17665.701
+  angleX 29.136
+  angleY -149.508
+  angleZ -20.305
+  scale 4
+ }
+ {
+  coords 11080.04 -2.532 17743.143
+  angleX 40.91
+  angleY -122.21
+  angleZ -0.166
+  scale 4
+ }
+ {
+  coords 11050.343 -12.649 17820.115
+  angleX 22.887
+  angleY -119.064
+  angleZ -12.609
+  scale 4
+ }
+ {
+  coords 11129.878 14.858 17689.959
+  angleX 26.204
+  angleY -86.508
+  angleZ 9.974
+  scale 4
+ }
+ {
+  coords 11067.212 -3.376 17879.068
+  angleX 8.75
+  angleY -122.121
+  angleZ -0.127
+  scale 4
+ }
+}
