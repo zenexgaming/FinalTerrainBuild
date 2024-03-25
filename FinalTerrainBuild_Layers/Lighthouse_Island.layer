@@ -1,0 +1,81 @@
+GenericEntity : "{11433114A765C14F}PrefabLibrary/Rocks/Granite/GraniteRock_02/GraniteRock_02.et" {
+ coords 5452.772 14.449 5371.215
+ angleX 7.758
+}
+$grp GenericEntity : "{5C1D639421B8386F}PrefabLibrary/Rocks/Granite/GraniteRock_02/GraniteRock_02_Forest.et" {
+ {
+  coords 5464.597 -3.453 5334.563
+  scale 2.3
+ }
+ {
+  coords 5488.142 -1.383 5334.45
+  angleX 14.119
+  angleY 40.205
+  angleZ 10.609
+  scale 2.3
+ }
+ {
+  coords 5514.744 -3.42 5360.711
+  angleX 17.917
+  angleY -39.888
+  angleZ 16.229
+  scale 2.3
+ }
+ {
+  coords 5510.588 -4.476 5428.715
+  angleX -11.749
+  angleY 34.554
+  angleZ 9.444
+  scale 2.3
+ }
+}
+$grp GenericEntity : "{76394437D7565E40}PrefabLibrary/Rocks/Granite/GraniteRock_01/GraniteRock_01_Forest.et" {
+ {
+  coords 5508.449 -1.858 5378.855
+  scale 1.36
+ }
+ {
+  coords 5472.854 12.082 5382.083
+  scale 1.19
+ }
+}
+GenericEntity : "{7D1705F41BA14E61}PrefabLibrary/Rocks/Granite/GraniteRock_01/GraniteRock_01.et" {
+ coords 5462.824 16.181 5385.825
+}
+$grp GenericEntity : "{845121AC14BBF7FB}PrefabLibrary/Rocks/Granite/GraniteRock_03/GraniteRock_03_Forest.et" {
+ {
+  coords 5506.013 -1.403 5402.04
+  angleX -19.281
+  angleY 61.124
+ }
+ {
+  coords 5488.655 8.462 5380.918
+  angleX 13.979
+  angleY -151.348
+  angleZ -20.681
+  scale 1.15
+ }
+ {
+  coords 5463.854 16.464 5375.279
+  angleX -11.213
+  angleY 122.686
+  angleZ 5.516
+  scale 0.79
+ }
+}
+SCR_DestructibleBuildingEntity : "{B406DD5E1B8D971A}PrefabLibrary/Infrastructure/Naval/Lighthouse_02_medium.et" {
+ coords 5457.903 4.29 5378.296
+ angleX 0.017
+ angleY -48.218
+}
+GenericEntity : "{F4DF7DEDAB805624}PrefabLibrary/Rocks/Granite/GraniteRock_03/GraniteRock_03.et" {
+ coords 5471.456 8.485 5359.606
+ angleY -39.341
+ angleZ -6.336
+ scale 1.311
+}
+GenericEntity : "{F5589597452FE918}PrefabLibrary/Infrastructure/Stairs/ConcreteStairs_02_Narrow.et" {
+ coords 5453.635 23.088 5382.096
+ angleY -48.962
+ scale 0.8
+}
