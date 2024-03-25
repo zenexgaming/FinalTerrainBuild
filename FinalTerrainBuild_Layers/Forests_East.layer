@@ -398,7 +398,6 @@ SplineShapeEntity {
      {
       coords -201.919 -29.506 124.201
       angleY 141.816
-      scale 1
      }
      {
       coords -213.106 -30.564 126.205
@@ -1739,7 +1738,6 @@ SplineShapeEntity {
      {
       coords -340.977 -17.855 13.422
       angleY 6.966
-      scale 1
      }
      {
       coords -346.001 -20.315 21.889
@@ -1979,7 +1977,6 @@ SplineShapeEntity {
      {
       coords -441.909 -18.785 311.801
       angleY 138.212
-      scale 1
      }
      {
       coords -433.355 -17.911 317.121
@@ -4065,7 +4062,6 @@ SplineShapeEntity {
       angleX 1.546
       angleY 95.804
       angleZ 1.187
-      scale 1
      }
      {
       coords -228.522 -48.442 258.066
@@ -5634,7 +5630,6 @@ SplineShapeEntity {
       angleX -0.038
       angleY 17.59
       angleZ 0.336
-      scale 1
      }
      {
       coords -441.512 -22.222 277.277
@@ -6040,7 +6035,6 @@ SplineShapeEntity {
       angleX -0.639
       angleY 8.833
       angleZ 1.509
-      scale 1
      }
      {
       coords -367.522 -29.308 190.189
@@ -6684,7 +6678,6 @@ SplineShapeEntity {
       angleX 0.984
       angleY 310.406
       angleZ -1.225
-      scale 1
      }
      {
       coords -407.353 -20.639 291.006
@@ -7111,7 +7104,6 @@ SplineShapeEntity {
       angleX -3.648
       angleY 170.337
       angleZ -0.047
-      scale 1
      }
      {
       coords -331.468 -24.83 60.139
@@ -8602,7 +8594,6 @@ SplineShapeEntity {
       angleX 1.108
       angleY 77.775
       angleZ -1.023
-      scale 1
      }
      {
       coords -312.162 -39.74 347.574
@@ -8818,7 +8809,6 @@ SplineShapeEntity {
       coords -264.272 -12.562 25.271
       angleX -1.547
       angleY 106.823
-      angleZ -0
       scale 1.045
      }
      {
@@ -9561,7 +9551,6 @@ SplineShapeEntity {
       angleX 0.822
       angleY 162.416
       angleZ 0.299
-      scale 1
      }
      {
       coords -269.058 -39.475 175.42
@@ -10275,7 +10264,6 @@ SplineShapeEntity {
       angleX -0.18
       angleY 238.345
       angleZ 0.327
-      scale 1
      }
      {
       coords -300.774 -40.071 274.053
@@ -10520,7 +10508,6 @@ SplineShapeEntity {
       angleX 0.107
       angleY 259.098
       angleZ 1.312
-      scale 1
      }
      {
       coords -271.665 -44.463 287.35
@@ -12319,7 +12306,6 @@ SplineShapeEntity {
       angleX -0.395
       angleY 8.02
       angleZ -0.079
-      scale 1
      }
      {
       coords -233.18 -48.275 322.121
@@ -16106,7 +16092,6 @@ SplineShapeEntity {
       angleX -0.713
       angleY 75.918
       angleZ 1.2
-      scale 1
      }
      {
       coords -90.611 -22.847 144.523
@@ -16554,7 +16539,6 @@ SplineShapeEntity {
       angleX 0.663
       angleY 62.624
       angleZ 1.251
-      scale 1
      }
      {
       coords -91.401 -37.089 280.988
@@ -16722,7 +16706,6 @@ SplineShapeEntity {
       angleX -0.05
       angleY 357.462
       angleZ 0.207
-      scale 1
      }
      {
       coords -108.022 -35.204 240.447
@@ -17492,7 +17475,6 @@ SplineShapeEntity {
       angleX 2.605
       angleY 273.788
       angleZ 2.288
-      scale 1
      }
      {
       coords -44.034 -24.342 131.637
@@ -18871,7 +18853,6 @@ SplineShapeEntity {
       angleX -0.393
       angleY 278.831
       angleZ -0.563
-      scale 1
      }
      {
       coords 26.315 -16.111 77.57
@@ -18955,7 +18936,6 @@ SplineShapeEntity {
       angleX 0.356
       angleY 179.434
       angleZ -0.471
-      scale 1
      }
      {
       coords 26.26 -12.459 57.482
@@ -20740,7 +20720,6 @@ SplineShapeEntity {
       angleX 1.097
       angleY 332.27
       angleZ 0.511
-      scale 1
      }
      {
       coords 52.697 -31.971 179.998
@@ -23097,7 +23076,6 @@ SplineShapeEntity {
      {
       coords -310.78 -39.482 361.129
       angleY 146.606
-      scale 1
      }
      {
       coords -267.337 -42.387 369.465
@@ -24570,7 +24548,6 @@ SplineShapeEntity {
      {
       coords -422.871 -25.118 197.781
       angleY 255.286
-      scale 1
      }
      {
       coords -402.389 -21.534 343.928
@@ -26391,7 +26368,6 @@ SplineShapeEntity {
      {
       coords -295.768 -38.672 184.512
       angleY 61.888
-      scale 1
      }
      {
       coords -38.959 0.45 12.215
@@ -27396,7 +27372,6 @@ SplineShapeEntity {
       angleX -6.24
       angleY -0.098
       angleZ 0.901
-      scale 1
      }
      {
       coords -226.51 -46.705 238.014
