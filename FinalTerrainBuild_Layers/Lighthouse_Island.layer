@@ -63,19 +63,9 @@ $grp GenericEntity : "{845121AC14BBF7FB}PrefabLibrary/Rocks/Granite/GraniteRock_
   scale 0.79
  }
 }
-SCR_DestructibleBuildingEntity : "{B406DD5E1B8D971A}PrefabLibrary/Infrastructure/Naval/Lighthouse_02_medium.et" {
- coords 5457.903 4.29 5378.296
- angleX 0.017
- angleY -48.218
-}
 GenericEntity : "{F4DF7DEDAB805624}PrefabLibrary/Rocks/Granite/GraniteRock_03/GraniteRock_03.et" {
  coords 5471.456 8.485 5359.606
  angleY -39.341
  angleZ -6.336
  scale 1.311
-}
-GenericEntity : "{F5589597452FE918}PrefabLibrary/Infrastructure/Stairs/ConcreteStairs_02_Narrow.et" {
- coords 5453.635 23.088 5382.096
- angleY -48.962
- scale 0.8
 }
