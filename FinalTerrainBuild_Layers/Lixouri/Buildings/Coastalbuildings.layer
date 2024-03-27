@@ -1,3 +1,67 @@
+$grp SplineShapeEntity {
+ {
+  coords 5874.203 0.938 8076.104
+  Points {
+   ShapePoint "{60F6915A861502EF}" {
+    Position -1.456 -0 0
+   }
+   ShapePoint "{60F6915A86151938}" {
+    Position 8.809 -0 -0.043
+   }
+  }
+  {
+   RoadGeneratorEntity : "{2D9AEF10F5FEA98B}PrefabLibrary/Generators/Roads/Dirt/RG_Road_Dirt_01.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "523EAA80CAA6C6B5"
+      SplinePoints {
+       ShapePoint "{52346539D885C296}" {
+        Position -1.456 -0 0
+       }
+       ShapePoint "{52346539D885C1A2}" {
+        Position 8.809 -0 -0.043
+       }
+      }
+      IsClosedSpline 0
+      Width 4
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 5883.934 0.937 7886.064
+  Points {
+   ShapePoint "{60F6915D579B524C}" {
+    Position 0 0 0
+   }
+   ShapePoint "{60F6915D579B22DA}" {
+    Position 8.537 0 4.726
+   }
+  }
+  {
+   RoadGeneratorEntity : "{41CEDBF0493A26A5}PrefabLibrary/Generators/Roads/Dirt/RG_Road_Dirt_02.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "556C65569DF42CF7"
+      SplinePoints {
+       ShapePoint "{556C65561A62B78A}" {
+        Position 0 0 0
+       }
+       ShapePoint "{556C65561A62EBA9}" {
+        Position 8.537 0 4.726
+       }
+      }
+      IsClosedSpline 0
+      Width 4.5
+     }
+    }
+   }
+  }
+ }
+}
 SCR_DestructibleBuildingEntity : "{1B68F3EE279C97A1}Prefabs/Structures/Commercial/Pubs/PubVillage_E_2L01/PubVillage_E_2L01_V1.et" {
  coords 5867.852 0.61 7998.23
 }

@@ -529,7 +529,7 @@ $grp SCR_DestructibleEntity : "{25C2C11E223A8294}PrefabLibrary/Props/Decoration/
 }
 $grp SCR_DestructibleBuildingEntity : "{2777C2591D7B6788}Prefabs/Structures/Infrastructure/Naval/Davits/Davit_02.et" {
  {
-  coords 5902.398 7.931 7907.483
+  coords 5902.396 7.931 7907.483
   angleY 60
  }
  {
@@ -537,7 +537,7 @@ $grp SCR_DestructibleBuildingEntity : "{2777C2591D7B6788}Prefabs/Structures/Infr
   angleY 60
  }
  {
-  coords 5912.714 7.911 7889.814
+  coords 5912.714 7.911 7889.813
   angleY 60
  }
  {

@@ -295,7 +295,7 @@ SCR_DestructibleBuildingEntity : "{12A8F2ECF2C00B1F}Prefabs/Structures/Infrastru
  coords 5968.65 8.845 7875.119
 }
 SCR_DestructibleBuildingEntity : "{1D75F5616BC5A335}Prefabs/Structures/Infrastructure/Naval/Lighthouse/LighthouseSmall_01.et" {
- coords 6121.989 9.466 7929.401
+ coords 6121.989 8.076 7929.401
  angleY -153.564
 }
 $grp GenericEntity : "{1FFB6B5828D2B35F}Prefabs/Rocks/Granite/GraniteRock_03.et" {
@@ -330,7 +330,7 @@ $grp GenericEntity : "{1FFB6B5828D2B35F}Prefabs/Rocks/Granite/GraniteRock_03.et"
   scale 0.7
  }
  {
-  coords 6122.366 -0.006 7926.886
+  coords 6122.366 -0.448 7926.886
   angleY -129.206
   scale 0.792
  }
@@ -418,11 +418,11 @@ $grp GenericEntity : "{2BBA69F7F0BCD76E}Prefabs/Rocks/Granite/GraniteRock_01_For
 }
 $grp SCR_DestructibleBuildingEntity : "{34B1ABE52532D51A}Prefabs/Structures/Infrastructure/Naval/Piers/PierConcrete_01_corner_30_inner.et" {
  {
-  coords 6091.421 3.628 7843.651
+  coords 6091.421 3.614 7843.651
   scale 2
  }
  {
-  coords 6097.279 3.61 7845.225
+  coords 6097.279 3.56 7845.225
   angleY -30
   scale 2
  }
@@ -444,9 +444,15 @@ $grp SCR_DestructibleBuildingEntity : "{4256CFD677701B03}Prefabs/Structures/Infr
 $grp GenericEntity : "{479481B171F52B35}PrefabsEditable/Auto/Structures/Infrastructure/Lamps/LampStreet_E_01/E_LampStreet_E_01_6m.et" {
  {
   coords 5974.557 2.358 7836.754
+  {
+   GameEntity {
+    ID "5F0ADC68C8E16424"
+    coords 0 5.644 0
+   }
+  }
  }
  {
-  coords 5991.87 12.779 7836.754
+  coords 5991.87 9.656 7836.754
  }
  {
   coords 6011.463 11.368 7836.754
@@ -464,7 +470,7 @@ $grp GenericEntity : "{479481B171F52B35}PrefabsEditable/Auto/Structures/Infrastr
   coords 6091.412 10.153 7836.754
  }
  {
-  coords 6107.592 10.604 7845.333
+  coords 6107.592 10.398 7845.332
  }
 }
 $grp GenericEntity : "{4923E218F59644B9}Prefabs/Props/Wrecks/BoatWreck_01.et" {
@@ -592,7 +598,7 @@ $grp SCR_DestructibleBuildingEntity : "{85CE0F68DA969A31}Prefabs/Structures/Infr
     AutoTransform 1
    }
   }
-  coords 5967.782 12.946 7887.3
+  coords 5967.782 12.948 7887.3
  }
 }
 $grp GenericEntity : "{9633134198F3AB1A}Prefabs/Rocks/Granite/GraniteRock_01.et" {
@@ -615,11 +621,11 @@ $grp GenericEntity : "{9633134198F3AB1A}Prefabs/Rocks/Granite/GraniteRock_01.et"
   coords 6114.696 -1.852 7904.611
  }
  {
-  coords 6117.833 -0.627 7923.584
+  coords 6117.833 -1.531 7923.584
   scale 0.63
  }
  {
-  coords 6124.95 0 7929.62
+  coords 6124.95 -0.665 7929.62
   scale 0.6
  }
  {
@@ -632,7 +638,7 @@ $grp GenericEntity : "{9633134198F3AB1A}Prefabs/Rocks/Granite/GraniteRock_01.et"
   scale 0.26
  }
  {
-  coords 6118.042 2.011 7922.482
+  coords 6118.042 0.556 7922.482
   angleY 113.254
   scale 0.26
  }
@@ -770,6 +776,7 @@ $grp SCR_DestructibleBuildingEntity : "{DB3F36604A282237}Prefabs/Structures/Infr
  {
   coords 5991.445 -1.064 7843.651
   scale 2
+  AdjustHeightMap 1
  }
  {
   coords 6031.442 -1.064 7843.651
@@ -855,4 +862,10 @@ $grp GenericEntity : "{FA6727A124372434}Prefabs/Rocks/Granite/GraniteRock_02.et"
 SCR_DestructibleBuildingEntity : "{FF6F5211131F41C8}Prefabs/Structures/Infrastructure/Naval/Houses/CottagePier_01_green.et" {
  coords 5980.479 14.036 7874.991
  angleY 90
+ {
+  GenericEntity {
+   ID "59CEDD5E6752B640"
+   coords 0 0 0
+  }
+ }
 }
