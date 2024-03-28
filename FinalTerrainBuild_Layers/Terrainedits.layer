@@ -1,6 +1,3 @@
 GenericTerrainEntity FinalTerrain {
  Layers 193
 }
-Vehicle UAZ452_ambulance1 : "{43C4AF1EEBD001CE}Prefabs/Vehicles/Wheeled/UAZ452/UAZ452_ambulance.et" {
- coords 8217.251 84.958 12785.526
-}

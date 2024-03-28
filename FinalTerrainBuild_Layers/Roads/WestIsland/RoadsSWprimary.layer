@@ -153,7 +153,7 @@ $grp SplineShapeEntity {
     Position 1342.99 -5.633 1043.393
    }
    ShapePoint "{60F4B30EC739D245}" {
-    Position 1300.133 -4.513 1053.449
+    Position 1301.051 -4.529 1054.832
    }
    ShapePoint "{60F4B30EC48FC090}" {
     Position 1259.553 -4.725 1098.761
@@ -593,7 +593,7 @@ $grp SplineShapeEntity {
         Position 1342.99 -5.633 1043.393
        }
        ShapePoint "{60F4B30F7A63945C}" {
-        Position 1300.133 -4.513 1053.449
+        Position 1301.051 -4.529 1054.832
        }
        ShapePoint "{60F4B30F7A6394EC}" {
         Position 1259.553 -4.725 1098.761
@@ -1382,7 +1382,7 @@ $grp SplineShapeEntity {
     Position -86.647 7.603 199.196
    }
    ShapePoint "{60F4BECE7E081CE6}" {
-    Position -84.19 3.942 164.033
+    Position -83.356 3.963 164.637
    }
    ShapePoint "{60F4BECE7E7BE4E2}" {
     Position -64.079 2.661 150.59
@@ -1873,7 +1873,7 @@ $grp SplineShapeEntity {
         Position -86.647 7.603 199.196
        }
        ShapePoint "{60F4BEC4361B194F}" {
-        Position -84.19 3.942 164.033
+        Position -83.356 3.963 164.637
        }
        ShapePoint "{60F4BEC4C75A1C1C}" {
         Position -64.079 2.661 150.59

@@ -293,6 +293,123 @@ $grp GenericEntity : "{11433114A765C14F}PrefabLibrary/Rocks/Granite/GraniteRock_
 }
 SCR_DestructibleBuildingEntity : "{12A8F2ECF2C00B1F}Prefabs/Structures/Infrastructure/Naval/Houses/CottagePier_01.et" {
  coords 5968.65 8.845 7875.119
+ {
+  GenericEntity {
+   ID "5CFA74E31E5C1706"
+   {
+    GameEntity {
+     ID "5B18D34BDED9DB59"
+     coords -1.92 4.315 0.748
+    }
+    GameEntity {
+     ID "5B18D34BDED9DBA5"
+     coords 2.175 4.407 -0.319
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DD8E"
+     coords 0.274 1.94 -3.016
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DDAF"
+     coords -0.879 1.921 -0.92
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DDE5"
+     coords -1.202 0.509 -1.381
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DDFB"
+     coords 1.902 3.509 0.265
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DDC9"
+     coords -1.79 3.509 0.335
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DC0B"
+     coords -2.315 3.509 -1.808
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DC38"
+     coords 2.361 3.509 -1.808
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DC16"
+     coords -2.131 0.931 -0.95
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DC67"
+     coords -1.819 0.931 -0.95
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DC41"
+     coords -3.183 0.509 -2.032
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DC77"
+     coords -3.183 0.509 -2.66
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DC4C"
+     coords 1.943 0.592 -3.016
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DC5C"
+     coords 3.205 0.509 -1.644
+     {
+      GenericEntity {
+       ID "5C64CB17312C16AE"
+       coords 0 0 0
+      }
+     }
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DCAE"
+     coords -2.086 3.509 0.942
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DC8F"
+     coords 3.462 0.509 -2.466
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DCED"
+     coords -2.538 3.596 -1.412
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DCFD"
+     coords 2.362 3.509 0.349
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DCD7"
+     coords -2.555 1.396 -1.043
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DB27"
+     coords -3.407 0.501 -1.473
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DB32"
+     coords 1.458 4.775 -2.948
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DB08"
+     coords -1.024 0.509 -0.47
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DB15"
+     coords -3.284 0.509 -1.068
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DB64"
+     coords 1.479 0.508 1.135
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DB76"
+     coords -2.519 3.509 0.115
+    }
+   }
+  }
+ }
 }
 SCR_DestructibleBuildingEntity : "{1D75F5616BC5A335}Prefabs/Structures/Infrastructure/Naval/Lighthouse/LighthouseSmall_01.et" {
  coords 6121.989 8.076 7929.401

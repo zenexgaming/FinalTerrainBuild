@@ -819,7 +819,7 @@ $grp SplineShapeEntity {
     Position 0.873 0.145 -15.264
    }
    ShapePoint "{60F4BECC6AAEC365}" {
-    Position 1.083 -0.584 53.592
+    Position 0.147 -0.502 54.735
    }
    ShapePoint "{60F4BECC691F4E52}" {
     Position 53.812 0.666 74.766
@@ -836,7 +836,7 @@ $grp SplineShapeEntity {
         Position 0.873 0.145 -15.264
        }
        ShapePoint "{556C6554868CB0CE}" {
-        Position 1.083 -0.584 53.592
+        Position 0.147 -0.502 54.735
        }
        ShapePoint "{60F4BECC678D4DFC}" {
         Position 53.812 0.666 74.766
@@ -859,7 +859,7 @@ $grp SplineShapeEntity {
     Position -21.552 1.313 32.134
    }
    ShapePoint "{60F4BECC1064B45C}" {
-    Position -55.45 2.734 34.549
+    Position -55.151 2.767 35.532
    }
    ShapePoint "{60F4BECC115521E9}" {
     Position -63.836 6.261 77.208
@@ -879,7 +879,7 @@ $grp SplineShapeEntity {
         Position -21.552 1.313 32.134
        }
        ShapePoint "{60F4BECC1064DFD0}" {
-        Position -55.45 2.734 34.549
+        Position -55.151 2.767 35.532
        }
        ShapePoint "{60F4BECC1155769D}" {
         Position -63.836 6.261 77.208
@@ -2536,6 +2536,12 @@ $grp SplineShapeEntity {
    }
    ShapePoint "{60F4BEDA77F6D15E}" {
     Position -977.011 72.47 865.162
+    Data {
+     SplinePointData SplinePointData {
+      InTangent 8.584 5.711 19.242
+      OutTangent 8.584 5.711 19.242
+     }
+    }
    }
    ShapePoint "{60F4BEDA5172DA82}" {
     Position -982.509 75.122 886.221
@@ -2651,7 +2657,7 @@ $grp SplineShapeEntity {
         Position -668.884 47.702 519.086
        }
        ShapePoint "{60F4BEDA687D5B27}" {
-        Position -678.593 43.46 560.646
+        Position -678.593 43.46 560.645
        }
        ShapePoint "{60F4BEDA687D5B69}" {
         Position -728.295 42.167 605.775
@@ -2682,6 +2688,12 @@ $grp SplineShapeEntity {
        }
        ShapePoint "{60F4BEDA687D59E2}" {
         Position -977.011 72.47 865.162
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent 8.584 5.711 19.242
+          OutTangent 8.584 5.711 19.242
+         }
+        }
        }
        ShapePoint "{60F4BEDA687D5E26}" {
         Position -982.509 75.122 886.221
