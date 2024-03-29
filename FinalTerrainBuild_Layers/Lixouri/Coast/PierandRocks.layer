@@ -291,126 +291,6 @@ $grp GenericEntity : "{11433114A765C14F}PrefabLibrary/Rocks/Granite/GraniteRock_
   scale 1.2
  }
 }
-SCR_DestructibleBuildingEntity : "{12A8F2ECF2C00B1F}Prefabs/Structures/Infrastructure/Naval/Houses/CottagePier_01.et" {
- coords 5968.65 8.845 7875.119
- {
-  GenericEntity {
-   ID "5CFA74E31E5C1706"
-   {
-    GameEntity {
-     ID "5B18D34BDED9DB59"
-     coords -1.92 4.315 0.748
-    }
-    GameEntity {
-     ID "5B18D34BDED9DBA5"
-     coords 2.175 4.407 -0.319
-    }
-    GenericEntity {
-     ID "5B18D34BDED9DD8E"
-     coords 0.274 1.94 -3.016
-    }
-    GenericEntity {
-     ID "5B18D34BDED9DDAF"
-     coords -0.879 1.921 -0.92
-    }
-    GenericEntity {
-     ID "5B18D34BDED9DDE5"
-     coords -1.202 0.509 -1.381
-    }
-    GenericEntity {
-     ID "5B18D34BDED9DDFB"
-     coords 1.902 3.509 0.265
-    }
-    GenericEntity {
-     ID "5B18D34BDED9DDC9"
-     coords -1.79 3.509 0.335
-    }
-    GenericEntity {
-     ID "5B18D34BDED9DC0B"
-     coords -2.315 3.509 -1.808
-    }
-    GenericEntity {
-     ID "5B18D34BDED9DC38"
-     coords 2.361 3.509 -1.808
-    }
-    GenericEntity {
-     ID "5B18D34BDED9DC16"
-     coords -2.131 0.931 -0.95
-    }
-    GenericEntity {
-     ID "5B18D34BDED9DC67"
-     coords -1.819 0.931 -0.95
-    }
-    GenericEntity {
-     ID "5B18D34BDED9DC41"
-     coords -3.183 0.509 -2.032
-    }
-    GenericEntity {
-     ID "5B18D34BDED9DC77"
-     coords -3.183 0.509 -2.66
-    }
-    GenericEntity {
-     ID "5B18D34BDED9DC4C"
-     coords 1.943 0.592 -3.016
-    }
-    GenericEntity {
-     ID "5B18D34BDED9DC5C"
-     coords 3.205 0.509 -1.644
-     {
-      GenericEntity {
-       ID "5C64CB17312C16AE"
-       coords 0 0 0
-      }
-     }
-    }
-    GenericEntity {
-     ID "5B18D34BDED9DCAE"
-     coords -2.086 3.509 0.942
-    }
-    GenericEntity {
-     ID "5B18D34BDED9DC8F"
-     coords 3.462 0.509 -2.466
-    }
-    GenericEntity {
-     ID "5B18D34BDED9DCED"
-     coords -2.538 3.596 -1.412
-    }
-    GenericEntity {
-     ID "5B18D34BDED9DCFD"
-     coords 2.362 3.509 0.349
-    }
-    GenericEntity {
-     ID "5B18D34BDED9DCD7"
-     coords -2.555 1.396 -1.043
-    }
-    GenericEntity {
-     ID "5B18D34BDED9DB27"
-     coords -3.407 0.501 -1.473
-    }
-    GenericEntity {
-     ID "5B18D34BDED9DB32"
-     coords 1.458 4.775 -2.948
-    }
-    GenericEntity {
-     ID "5B18D34BDED9DB08"
-     coords -1.024 0.509 -0.47
-    }
-    GenericEntity {
-     ID "5B18D34BDED9DB15"
-     coords -3.284 0.509 -1.068
-    }
-    GenericEntity {
-     ID "5B18D34BDED9DB64"
-     coords 1.479 0.508 1.135
-    }
-    GenericEntity {
-     ID "5B18D34BDED9DB76"
-     coords -2.519 3.509 0.115
-    }
-   }
-  }
- }
-}
 SCR_DestructibleBuildingEntity : "{1D75F5616BC5A335}Prefabs/Structures/Infrastructure/Naval/Lighthouse/LighthouseSmall_01.et" {
  coords 6121.989 8.076 7929.401
  angleY -153.564
@@ -532,20 +412,6 @@ $grp GenericEntity : "{2BBA69F7F0BCD76E}Prefabs/Rocks/Granite/GraniteRock_01_For
   angleY -76.239
   scale 1.24
  }
-}
-$grp SCR_DestructibleBuildingEntity : "{34B1ABE52532D51A}Prefabs/Structures/Infrastructure/Naval/Piers/PierConcrete_01_corner_30_inner.et" {
- {
-  coords 6091.421 3.614 7843.651
-  scale 2
- }
- {
-  coords 6097.279 3.56 7845.225
-  angleY -30
-  scale 2
- }
-}
-SCR_DestructibleBuildingEntity : "{3961F81016AAE7CD}Prefabs/Structures/Infrastructure/Naval/Sheds/PierShed_01.et" {
- coords 5952.904 9.579 7876.671
 }
 $grp SCR_DestructibleBuildingEntity : "{4256CFD677701B03}Prefabs/Structures/Infrastructure/Naval/Piers/Pier_04.et" {
  {
@@ -679,43 +545,55 @@ $grp SCR_DestructibleBuildingEntity : "{85CE0F68DA969A31}Prefabs/Structures/Infr
  }
  {
   components {
+   RigidBody "{506EDA9CBE1B57FF}" {
+    LayerPreset "BasicVehicleObstacles"
+   }
    Hierarchy "{50B87EFBB2BAB285}" {
     Enabled 1
     PivotID "socket_bollard_003"
     AutoTransform 1
    }
   }
-  coords 5990.891 14.041 7887.406
+  coords 5990.891 14.042 7887.406
  }
  {
   components {
+   RigidBody "{506EDA9CBE1B57FF}" {
+    LayerPreset "BasicVehicleObstacles"
+   }
    Hierarchy "{50B87EFBB2BAB285}" {
     Enabled 1
     PivotID "socket_bollard_003"
     AutoTransform 1
    }
   }
-  coords 5983.384 13.434 7887.429
+  coords 5983.384 13.433 7887.429
  }
  {
   components {
+   RigidBody "{506EDA9CBE1B57FF}" {
+    LayerPreset "BasicVehicleObstacles"
+   }
    Hierarchy "{50B87EFBB2BAB285}" {
     Enabled 1
     PivotID "socket_bollard_003"
     AutoTransform 1
    }
   }
-  coords 5975.329 13.337 7887.32
+  coords 5975.329 13.314 7887.319
  }
  {
   components {
+   RigidBody "{506EDA9CBE1B57FF}" {
+    LayerPreset "BasicVehicleObstacles"
+   }
    Hierarchy "{50B87EFBB2BAB285}" {
     Enabled 1
     PivotID "socket_bollard_003"
     AutoTransform 1
    }
   }
-  coords 5967.782 12.948 7887.3
+  coords 5967.782 12.873 7887.3
  }
 }
 $grp GenericEntity : "{9633134198F3AB1A}Prefabs/Rocks/Granite/GraniteRock_01.et" {
@@ -889,19 +767,28 @@ $grp GenericEntity : "{D9D20C6C33517ED5}Prefabs/Rocks/Granite/GraniteRock_03_For
   angleY -102.601
  }
 }
-$grp SCR_DestructibleBuildingEntity : "{DB3F36604A282237}Prefabs/Structures/Infrastructure/Naval/Piers/PierConcrete_01_20m.et" {
+SCR_DestructibleBuildingEntity : "{DB3F36604A282237}Prefabs/Structures/Infrastructure/Naval/Piers/PierConcrete_01_20m.et" {
+ coords 5991.445 -1.064 7843.651
+ scale 2
+ AdjustHeightMap 1
  {
-  coords 5991.445 -1.064 7843.651
-  scale 2
-  AdjustHeightMap 1
- }
- {
-  coords 6031.442 -1.064 7843.651
-  scale 2
- }
- {
-  coords 6071.435 -1.064 7843.651
-  scale 2
+  $grp SCR_DestructibleBuildingEntity : "{34B1ABE52532D51A}Prefabs/Structures/Infrastructure/Naval/Piers/PierConcrete_01_corner_30_inner.et" {
+   {
+    coords 49.988 -0.005 0
+   }
+   {
+    coords 52.917 -0.028 0.787
+    angleY -30
+   }
+  }
+  $grp SCR_DestructibleBuildingEntity : "{DB3F36604A282237}Prefabs/Structures/Infrastructure/Naval/Piers/PierConcrete_01_20m.et" {
+   {
+    coords 19.999 0 0
+   }
+   {
+    coords 39.995 0 0
+   }
+  }
  }
 }
 $grp GenericEntity : "{F4DF7DEDAB805624}PrefabLibrary/Rocks/Granite/GraniteRock_03/GraniteRock_03.et" {
@@ -921,34 +808,74 @@ GenericEntity : "{F513D99A28A5E5E3}Prefabs/Props/Recreation/Beach/PedalBoat_01/P
 }
 $grp SCR_DestructibleBuildingEntity : "{F6AA92F7B23D8A71}Prefabs/Structures/Infrastructure/Naval/Piers/Pier_01.et" {
  {
+  components {
+   Hierarchy "{50B87EFBB2BAB285}" {
+    AutoTransform 0
+   }
+  }
   coords 5990.374 -8.365 7874.253
   scale 1.5
  }
  {
+  components {
+   Hierarchy "{50B87EFBB2BAB285}" {
+    AutoTransform 0
+   }
+  }
   coords 5990.374 -8.365 7883.165
   scale 1.5
  }
  {
+  components {
+   Hierarchy "{50B87EFBB2BAB285}" {
+    AutoTransform 0
+   }
+  }
   coords 5981.433 -8.365 7874.253
   scale 1.5
  }
  {
+  components {
+   Hierarchy "{50B87EFBB2BAB285}" {
+    AutoTransform 0
+   }
+  }
   coords 5981.433 -8.365 7883.165
   scale 1.5
  }
  {
+  components {
+   Hierarchy "{50B87EFBB2BAB285}" {
+    AutoTransform 0
+   }
+  }
   coords 5972.46 -8.365 7874.253
   scale 1.5
  }
  {
+  components {
+   Hierarchy "{50B87EFBB2BAB285}" {
+    AutoTransform 0
+   }
+  }
   coords 5972.46 -8.365 7883.165
   scale 1.5
  }
  {
+  components {
+   Hierarchy "{50B87EFBB2BAB285}" {
+    AutoTransform 0
+   }
+  }
   coords 5963.517 -8.365 7874.253
   scale 1.5
  }
  {
+  components {
+   Hierarchy "{50B87EFBB2BAB285}" {
+    AutoTransform 0
+   }
+  }
   coords 5963.517 -8.365 7883.165
   scale 1.5
  }
@@ -974,15 +901,5 @@ $grp GenericEntity : "{FA6727A124372434}Prefabs/Rocks/Granite/GraniteRock_02.et"
  {
   coords 6124.178 -0.88 7933.551
   scale 0.6
- }
-}
-SCR_DestructibleBuildingEntity : "{FF6F5211131F41C8}Prefabs/Structures/Infrastructure/Naval/Houses/CottagePier_01_green.et" {
- coords 5980.479 14.036 7874.991
- angleY 90
- {
-  GenericEntity {
-   ID "59CEDD5E6752B640"
-   coords 0 0 0
-  }
  }
 }

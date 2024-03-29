@@ -1,0 +1,31 @@
+FrameWidgetClass {
+ {
+  TextWidgetClass "{596565CFBE414D61}" {
+   Prefab "{596565CFBE414D61}"
+   Slot FrameWidgetSlot "{596565CFBE414D45}" {
+    PositionX -130
+    OffsetLeft -130
+    PositionY -1045.97
+    OffsetTop -1046
+    SizeX 0
+    OffsetRight 130
+    SizeY 0
+    OffsetBottom 1046
+   }
+   Text "zenexgaming.com.au"
+  }
+  HorizontalLayoutWidgetClass "{599ADB14E240A0B6}" {
+   Prefab "{599ADB14E240A0B6}"
+   Slot FrameWidgetSlot "{599ADB14E0296AE8}" {
+    PositionX -2173.88
+    OffsetLeft -2173.88
+    PositionY -1056.67
+    OffsetTop -1056.67
+    SizeX 626.912
+    OffsetRight 1546.97
+    SizeY 106.839
+    OffsetBottom 949.834
+   }
+  }
+ }
+}

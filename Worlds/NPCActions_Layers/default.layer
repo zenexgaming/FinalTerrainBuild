@@ -1,0 +1,111 @@
+$grp GenericEntity {
+ {
+  components {
+   MeshObject "{60FAC43B9EE0B342}" {
+    Object "{82DB58D6480BD552}Assets/Clutter/Vegetation/Mushrooms/c_mushrooms_01.xob"
+   }
+   ActionsManagerComponent "{60FAC43B96EE7F36}" {
+    ActionContexts {
+     UserActionContext "{60FAC43B972002ED}" {
+      UIInfo UIInfo "{60FAC43B857A156F}" {
+       Name "Pick Up Mushrooms"
+      }
+      ContextName "Pick Up"
+      Position PointInfo "{60FAC43B473206A5}" {
+       Offset 0 0.2 0
+      }
+     }
+    }
+    additionalActions {
+     PickupAction "{60FAC438D1BB030C}" {
+      ParentContextList {
+       "Pick Up"
+      }
+      UIInfo UIInfo "{60FAC438D795589F}" {
+       Name "Pick Up"
+      }
+      VisibilityRange 2
+      Duration 1
+     }
+    }
+   }
+  }
+  coords 179.211 0.905 19.52
+ }
+ {
+  components {
+   MeshObject "{60FAC43B4E0F3B54}" {
+    Object "{31568ECC375344FD}Assets/Items/Medicine/MorphineInjection_01/MorphineInjection_01_full_close.xob"
+   }
+  }
+  coords 178.461 0.9 19.536
+ }
+}
+GenericEntity : "{53506DCB398C7EBE}Prefabs/Props/Furniture/Table_01.et" {
+ coords 179.013 0 19.33
+}
+EL_NpcBaseEntity : "{68C6EB0CCDD55E3F}Prefabs/Characters/Core/Npc_Base.et" {
+ components {
+  BaseLoadoutManagerComponent "{5A4B0B84C86D5843}" {
+   Slots {
+    LoadoutSlotInfo Jacket {
+     Prefab "{23A15812C40D34C2}Prefabs/Characters/Uniforms/Jacket_Denim_01/Jacket_Civ_Denim_01_Dirty.et"
+    }
+    LoadoutSlotInfo Pants {
+     Prefab "{537FD11C135757AC}Prefabs/Characters/Uniforms/Pants_Trousers_01/Pants_Trousers_01_DarkGrey_Dirty.et"
+    }
+    LoadoutSlotInfo Shoes {
+     Prefab "{C7923961D7235D70}Prefabs/Characters/Footwear/CombatBoots_Soviet_01.et"
+    }
+    LoadoutSlotInfo Head {
+     Prefab "{DD565E2C7E00A5BB}Prefabs/Characters/HeadGear/Hat_FlatCap_01/Hat_FlatCap_01_blue.et"
+    }
+   }
+  }
+  ActionsManagerComponent "{5A4B13A9811FB113}" {
+   ActionContexts {
+    UserActionContext "{60FAC06F52C08E5A}" {
+     UIInfo UIInfo "{60FAC06F5696AFCF}" {
+      Name "Talk"
+     }
+     ContextName "Talk"
+     Position PointInfo "{60FAC06F493E5D4B}" {
+      Offset 0 1.45 0
+     }
+    }
+    UserActionContext "{60FAC06EC844CBE8}" {
+     UIInfo UIInfo "{60FAC06ECCB0F391}" {
+      Name "Trade"
+     }
+     ContextName "Trade"
+     Position PointInfo "{60FAC06ECE10E2AC}" {
+      Offset 0 1.45 0
+     }
+    }
+   }
+   additionalActions {
+    TAG_MyScriptedUserAction "{60FAC43AF5DFD5F1}" {
+     ParentContextList {
+      "Talk"
+     }
+     UIInfo UIInfo "{60FAC43AE39D5651}" {
+      Name "Talk"
+     }
+     VisibilityRange 2
+     Duration 2
+    }
+    EL_OpenTraderAction "{60FAC438943B68ED}" {
+     ParentContextList {
+      "Trade"
+     }
+     UIInfo UIInfo "{60FAC4388C7375CF}" {
+      Name "Trade"
+     }
+     VisibilityRange 2
+     Duration 2
+    }
+   }
+  }
+ }
+ coords 180.923 0 19.31
+}
