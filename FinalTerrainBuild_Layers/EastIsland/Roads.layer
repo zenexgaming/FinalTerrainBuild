@@ -1604,6 +1604,37 @@ $grp SplineShapeEntity {
    }
   }
  }
+ {
+  coords 11949.996 62.629 17158.426
+  Points {
+   ShapePoint "{60FA34E1D92F74D6}" {
+    Position 0 -0.009 0
+   }
+   ShapePoint "{60FA34E1D92EA6B2}" {
+    Position 180.26 -19.863 179.605
+   }
+  }
+  {
+   RoadGeneratorEntity : "{5E336AEB0923963F}PrefabLibrary/Generators/Roads/Asphalt/RG_Road_Asphalt_E_01_DashedLine.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "556C6556FAB8EA7A"
+      SplinePoints {
+       ShapePoint "{556C6556BF2A9CBB}" {
+        Position 0 -0.009 0
+       }
+       ShapePoint "{556C6556BF2A9DE7}" {
+        Position 180.26 -19.863 179.605
+       }
+      }
+      IsClosedSpline 0
+      Width 12
+     }
+    }
+   }
+  }
+ }
 }
 Vehicle S105_rally1 : "{5555DCAFADB8CE2A}Prefabs/Vehicles/Wheeled/S105/S105_rally.et" {
  coords 13010.584 94.724 13655.611
