@@ -1,0 +1,988 @@
+$grp GenericEntity {
+ {
+  components {
+   MeshObject "{60F6074D2F152BE0}" {
+    Object "{CC7D1AE87C480CD1}Assets/Props/Naval/FishingGear_01/FishingBuoy_01.xob"
+   }
+  }
+  coords 5959.854 0.648 7887.053
+ }
+ {
+  components {
+   MeshObject "{60F6074D28952F07}" {
+    Object "{93FF2FFB290260B6}Assets/Props/Naval/FishingGear_01/FishingNet_02.xob"
+   }
+  }
+  coords 5962.038 0.648 7886.115
+ }
+ {
+  components {
+   MeshObject "{60F6074D24DA1D16}" {
+    Object "{B4D1B25AFC768346}Assets/Props/Naval/FishingGear_01/LobsterTrapWooden_02.xob"
+   }
+  }
+  coords 5964.281 0.648 7887.041
+ }
+ {
+  components {
+   MeshObject "{60F6074D220C42A2}" {
+    Object "{B4D1B25AFC768346}Assets/Props/Naval/FishingGear_01/LobsterTrapWooden_02.xob"
+   }
+  }
+  coords 5964.63 0.679 7886.105
+  angleY -56.47
+ }
+ {
+  components {
+   MeshObject "{60F6074D2F152BE0}" {
+    Object "{CC7D1AE87C480CD1}Assets/Props/Naval/FishingGear_01/FishingBuoy_01.xob"
+   }
+  }
+  coords 5959.777 0.651 7886.07
+ }
+ {
+  components {
+   MeshObject "{60F6074D2F152BE0}" {
+    Object "{CC7D1AE87C480CD1}Assets/Props/Naval/FishingGear_01/FishingBuoy_01.xob"
+   }
+  }
+  coords 5959.922 0.653 7886.589
+ }
+ {
+  components {
+   MeshObject "{60F6074DC740BE22}" {
+    Object "{E20A38B86EF7369B}Assets/Props/Naval/FishingGear_01/FishingRope_01.xob"
+   }
+  }
+  coords 5965.437 0.642 7886.823
+ }
+ {
+  components {
+   MeshObject "{60F6074DDF8D9321}" {
+    Object "{2CB07D198382D49D}Assets/Props/Naval/LifeBuoy_01/LifeBuoy_01.xob"
+   }
+  }
+  coords 5981.326 0.625 7887.245
+ }
+ {
+  components {
+   MeshObject "{60F6074DDC9F6EE3}" {
+    Object "{2A24BDB879D5415B}Assets/Props/Naval/LifeBuoy_01/LifeBuoy_01_stand.xob"
+   }
+  }
+  coords 5980.789 0.64 7887.329
+ }
+ {
+  components {
+   MeshObject "{60F6074DD23AC160}" {
+    Object "{B37686E222DA7674}Assets/Props/Naval/MooringBuoy_01/MooringBuoy_01.xob"
+   }
+  }
+  coords 5971.976 0.659 7911.816
+ }
+ {
+  components {
+   MeshObject "{60F6074DE54435F3}" {
+    Object "{8B7A02E67D7B8853}Assets/Props/Naval/NetHanger_01/NetHanger_01_long.xob"
+   }
+  }
+  coords 5984.893 0.655 7877.614
+ }
+ {
+  components {
+   MeshObject "{60F6074DF67FD8A6}" {
+    Object "{BE65E21F84EEBB93}Assets/Props/Naval/FishingGear_01/FishingNet_01.xob"
+   }
+  }
+  coords 5985.981 0.648 7876.126
+  angleY -82.393
+ }
+ {
+  components {
+   MeshObject "{60F6074DF1E367D6}" {
+    Object "{D30F0EDE9F1EE2F1}Assets/Props/Naval/FishingGear_01/FishingNet_03.xob"
+   }
+  }
+  coords 5986.412 0.633 7879.498
+ }
+ {
+  components {
+   MeshObject "{60F6074D8419EC0B}" {
+    Object "{B1783E2F28F438C2}Assets/Props/Naval/Buoy_01/Buoy_01.xob"
+   }
+  }
+  coords 5971.529 0 8023.356
+ }
+ {
+  components {
+   MeshObject "{60F6074D95BED3F1}" {
+    Object "{1D6E3E2AC1BE4AD8}Assets/Props/Naval/Buoy_01/Buoy_01_chain.xob"
+   }
+  }
+  coords 5971.534 -2.625 8023.31
+ }
+ {
+  components {
+   MeshObject "{60F6074D95BED3F1}" {
+    Object "{1D6E3E2AC1BE4AD8}Assets/Props/Naval/Buoy_01/Buoy_01_chain.xob"
+   }
+  }
+  coords 5971.96 -2.315 7988.076
+ }
+ {
+  components {
+   MeshObject "{60F6074D8419EC0B}" {
+    Object "{B1783E2F28F438C2}Assets/Props/Naval/Buoy_01/Buoy_01.xob"
+   }
+  }
+  coords 5971.954 0.31 7988.126
+ }
+ {
+  components {
+   MeshObject "{60F6074D95BED3F1}" {
+    Object "{1D6E3E2AC1BE4AD8}Assets/Props/Naval/Buoy_01/Buoy_01_chain.xob"
+   }
+  }
+  coords 5972.344 -1.962 7957.764
+ }
+ {
+  components {
+   MeshObject "{60F6074D8419EC0B}" {
+    Object "{B1783E2F28F438C2}Assets/Props/Naval/Buoy_01/Buoy_01.xob"
+   }
+  }
+  coords 5972.336 0.663 7957.813
+ }
+ {
+  components {
+   MeshObject "{60F6074E547E0CC1}" {
+    Object "{A4345AB245B6A091}Assets/Props/Naval/HarborWinch_01/HarborWinch_01.xob"
+   }
+  }
+  coords 5986.856 0.642 7886.814
+ }
+ {
+  components {
+   MeshObject "{60F6074E53AC5B13}" {
+    Object "{A4345AB245B6A091}Assets/Props/Naval/HarborWinch_01/HarborWinch_01.xob"
+   }
+  }
+  coords 5971.536 0.642 7886.996
+ }
+ {
+  components {
+   MeshObject "{60F6074E688E644E}" {
+    Object "{A4345AB245B6A091}Assets/Props/Naval/HarborWinch_01/HarborWinch_01.xob"
+   }
+  }
+  coords 5994.208 0.662 7876.475
+  angleY 90
+ }
+ {
+  components {
+   MeshObject "{60F6074DDC9F6EE3}" {
+    Object "{2A24BDB879D5415B}Assets/Props/Naval/LifeBuoy_01/LifeBuoy_01_stand.xob"
+   }
+  }
+  coords 5994.282 0.642 7878.429
+  angleY 90
+ }
+ {
+  components {
+   MeshObject "{60F6074DDF8D9321}" {
+    Object "{2CB07D198382D49D}Assets/Props/Naval/LifeBuoy_01/LifeBuoy_01.xob"
+   }
+  }
+  coords 5994.214 0.627 7877.704
+  angleY 90
+ }
+ {
+  components {
+   MeshObject "{60F6074DDF8D9321}" {
+    Object "{2CB07D198382D49D}Assets/Props/Naval/LifeBuoy_01/LifeBuoy_01.xob"
+   }
+  }
+  coords 5993.405 0.627 7877.938
+  angleY 90
+ }
+ {
+  components {
+   MeshObject "{60F6074DDF8D9321}" {
+    Object "{2CB07D198382D49D}Assets/Props/Naval/LifeBuoy_01/LifeBuoy_01.xob"
+   }
+  }
+  coords 5979.949 0.614 7887.202
+  angleY 90
+ }
+}
+$grp GenericEntity : "{019E4E540652B141}Prefabs/Rocks/Granite/GraniteRock_02_Forest.et" {
+ {
+  coords 6011.354 -3.729 7823.547
+ }
+ {
+  coords 6021.958 -6.289 7819.754
+  angleY 120.794
+ }
+ {
+  coords 6102.389 -4.842 7825.604
+  angleY -56.18
+  scale 1.02
+ }
+ {
+  coords 6114.333 -5.61 7831.404
+  angleY 80.644
+  scale 1.04
+ }
+ {
+  coords 6089.478 -7.92 7864.151
+  angleY -54.142
+ }
+ {
+  coords 6092.895 -10.27 7871.508
+  angleY -118.262
+ }
+ {
+  coords 6104.856 -6.33 7881.812
+ }
+ {
+  coords 6113.931 -6.424 7862.119
+ }
+ {
+  coords 6119.966 -4.893 7901.497
+  angleY -57.5
+ }
+ {
+  coords 6122.815 -6.624 7913.652
+ }
+ {
+  coords 6133.303 -10.728 7928.542
+ }
+ {
+  coords 6122.46 -5.599 7936.618
+  angleY 120.98
+ }
+ {
+  coords 6110.693 -9.114 7905.146
+  angleY -106.942
+ }
+ {
+  coords 6107.787 -9.511 7913.687
+  angleY -123.837
+ }
+ {
+  coords 6123.941 -10.382 7941.376
+  angleY -21.384
+ }
+}
+$grp GenericEntity : "{11433114A765C14F}PrefabLibrary/Rocks/Granite/GraniteRock_02/GraniteRock_02.et" {
+ {
+  coords 5976.394 -2.688 7826.01
+  angleY -167.35
+  scale 1.2
+ }
+ {
+  coords 5992.593 -0.367 7823.656
+  angleY 47.188
+  scale 1.2
+ }
+ {
+  coords 6104.455 -2.796 7834.417
+  angleY 171.447
+  scale 1.2
+ }
+}
+SCR_DestructibleBuildingEntity : "{12A8F2ECF2C00B1F}Prefabs/Structures/Infrastructure/Naval/Houses/CottagePier_01.et" {
+ coords 5968.65 8.845 7875.119
+ {
+  GenericEntity {
+   ID "5CFA74E31E5C1706"
+   {
+    GameEntity {
+     ID "5B18D34BDED9DB59"
+     coords -1.92 4.315 0.748
+    }
+    GameEntity {
+     ID "5B18D34BDED9DBA5"
+     coords 2.175 4.407 -0.319
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DD8E"
+     coords 0.274 1.94 -3.016
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DDAF"
+     coords -0.879 1.921 -0.92
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DDE5"
+     coords -1.202 0.509 -1.381
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DDFB"
+     coords 1.902 3.509 0.265
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DDC9"
+     coords -1.79 3.509 0.335
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DC0B"
+     coords -2.315 3.509 -1.808
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DC38"
+     coords 2.361 3.509 -1.808
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DC16"
+     coords -2.131 0.931 -0.95
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DC67"
+     coords -1.819 0.931 -0.95
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DC41"
+     coords -3.183 0.509 -2.032
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DC77"
+     coords -3.183 0.509 -2.66
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DC4C"
+     coords 1.943 0.592 -3.016
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DC5C"
+     coords 3.205 0.509 -1.644
+     {
+      GenericEntity {
+       ID "5C64CB17312C16AE"
+       coords 0 0 0
+      }
+     }
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DCAE"
+     coords -2.086 3.509 0.942
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DC8F"
+     coords 3.462 0.509 -2.466
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DCED"
+     coords -2.538 3.596 -1.412
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DCFD"
+     coords 2.362 3.509 0.349
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DCD7"
+     coords -2.555 1.396 -1.043
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DB27"
+     coords -3.407 0.501 -1.473
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DB32"
+     coords 1.458 4.775 -2.948
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DB08"
+     coords -1.024 0.509 -0.47
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DB15"
+     coords -3.284 0.509 -1.068
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DB64"
+     coords 1.479 0.508 1.135
+    }
+    GenericEntity {
+     ID "5B18D34BDED9DB76"
+     coords -2.519 3.509 0.115
+    }
+   }
+  }
+ }
+}
+SCR_DestructibleBuildingEntity : "{1D75F5616BC5A335}Prefabs/Structures/Infrastructure/Naval/Lighthouse/LighthouseSmall_01.et" {
+ coords 6121.989 8.076 7929.401
+ angleY -153.564
+}
+$grp GenericEntity : "{1FFB6B5828D2B35F}Prefabs/Rocks/Granite/GraniteRock_03.et" {
+ {
+  coords 6043.417 -1.273 7832.007
+  angleY -21.552
+ }
+ {
+  coords 6074.682 2.12 7830.922
+  angleY 172.795
+ }
+ {
+  coords 6046.118 1.004 7830.346
+  angleY 168.941
+ }
+ {
+  coords 6109.631 0.277 7845.055
+  angleY 95.624
+ }
+ {
+  coords 6108.635 1.192 7863.216
+  angleY -90.66
+ }
+ {
+  coords 6112.384 0.664 7895.855
+  angleY 70.507
+  scale 0.8
+ }
+ {
+  coords 6117.961 -0.232 7913.828
+  angleY -101.736
+  scale 0.7
+ }
+ {
+  coords 6122.366 -0.448 7926.886
+  angleY -129.206
+  scale 0.792
+ }
+}
+$grp GenericEntity : "{2BBA69F7F0BCD76E}Prefabs/Rocks/Granite/GraniteRock_01_Forest.et" {
+ {
+  coords 5967.731 -11.001 7798.392
+ }
+ {
+  coords 5977.381 -11.801 7801.643
+  angleY -171.059
+ }
+ {
+  coords 6046.403 -5.239 7823.957
+ }
+ {
+  coords 6072.814 -3.964 7825.07
+ }
+ {
+  coords 6108.245 -5.477 7825.196
+  scale 1.07
+ }
+ {
+  coords 6120.123 -5.151 7850.771
+  angleY 78.614
+  scale 1.23
+ }
+ {
+  coords 6088.604 -7.986 7857.557
+  angleY -171.5
+ }
+ {
+  coords 6098.446 -10.336 7867.847
+  angleY 124.381
+ }
+ {
+  coords 6104.041 -4.489 7872.495
+  angleY -58.066
+ }
+ {
+  coords 6101.664 -6.148 7888.19
+ }
+ {
+  coords 6116.034 -5.781 7885.074
+ }
+ {
+  coords 6121.738 -5.428 7907.251
+ }
+ {
+  coords 6131.224 -8.084 7920.542
+ }
+ {
+  coords 6123.868 -5.33 7935.068
+ }
+ {
+  coords 6112.461 -4.884 7930.719
+  angleY -39.166
+ }
+ {
+  coords 6108.067 -3.797 7908.25
+  angleY -55.402
+  scale 0.8
+ }
+ {
+  coords 6111.171 -8.448 7921.114
+  angleY -49.332
+ }
+ {
+  coords 6112.888 -8.552 7937.996
+  angleY -36.447
+ }
+ {
+  coords 6130.043 -9.835 7938.187
+  angleY 16.634
+ }
+ {
+  coords 6106.591 -10.489 7926.755
+  angleY -108.934
+ }
+ {
+  coords 6102.564 -16.672 7906.826
+  angleY -76.239
+  scale 1.24
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{34B1ABE52532D51A}Prefabs/Structures/Infrastructure/Naval/Piers/PierConcrete_01_corner_30_inner.et" {
+ {
+  coords 6091.421 3.614 7843.651
+  scale 2
+ }
+ {
+  coords 6097.279 3.56 7845.225
+  angleY -30
+  scale 2
+ }
+}
+SCR_DestructibleBuildingEntity : "{3961F81016AAE7CD}Prefabs/Structures/Infrastructure/Naval/Sheds/PierShed_01.et" {
+ coords 5952.904 9.579 7876.671
+}
+$grp SCR_DestructibleBuildingEntity : "{4256CFD677701B03}Prefabs/Structures/Infrastructure/Naval/Piers/Pier_04.et" {
+ {
+  coords 5990.053 -1.795 7856.006
+  angleY -90
+  scale 1.5
+ }
+ {
+  coords 5999.306 -8.365 7885.368
+  scale 1.5
+ }
+}
+$grp GenericEntity : "{479481B171F52B35}PrefabsEditable/Auto/Structures/Infrastructure/Lamps/LampStreet_E_01/E_LampStreet_E_01_6m.et" {
+ {
+  coords 5974.557 2.358 7836.754
+  {
+   GameEntity {
+    ID "5F0ADC68C8E16424"
+    coords 0 5.644 0
+   }
+  }
+ }
+ {
+  coords 5991.87 9.656 7836.754
+ }
+ {
+  coords 6011.463 11.368 7836.754
+ }
+ {
+  coords 6031.329 10.598 7836.754
+ }
+ {
+  coords 6051.487 10.248 7836.754
+ }
+ {
+  coords 6071.586 10.073 7836.754
+ }
+ {
+  coords 6091.412 10.153 7836.754
+ }
+ {
+  coords 6107.592 10.398 7845.332
+ }
+}
+$grp GenericEntity : "{4923E218F59644B9}Prefabs/Props/Wrecks/BoatWreck_01.et" {
+ {
+  coords 5954.978 -0.087 7872.011
+ }
+ {
+  coords 5955.125 -0.033 7879.974
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{6CDAFB08D5F88533}Prefabs/Structures/Infrastructure/Naval/Piers/Pier_Stairs01.et" {
+ {
+  coords 5989.999 13.927 7867.144
+  scale 1.5
+ }
+ {
+  coords 5946.243 8.777 7887.574
+ }
+ {
+  coords 5957.729 8.903 7887.664
+ }
+}
+GenericEntity : "{71ADC9C9161F818C}Prefabs/Props/Recreation/Beach/PedalBoat_01/PedalBoat_01_red.et" {
+ coords 5949.14 -0.155 7872.415
+}
+$grp GenericEntity : "{7D1705F41BA14E61}PrefabLibrary/Rocks/Granite/GraniteRock_01/GraniteRock_01.et" {
+ {
+  coords 5966.597 -2.068 7823.414
+  scale 1.2
+ }
+ {
+  coords 6002.135 -0.367 7820.239
+  angleY -145.462
+  scale 1.2
+ }
+ {
+  coords 6097.544 -1.706 7830.785
+  angleY -26.216
+  scale 1.2
+ }
+ {
+  coords 6011.87 -2.559 7830.239
+  angleY 7.231
+  scale 1.2
+ }
+ {
+  coords 6022.594 -3.906 7833.814
+  angleY 152.466
+  scale 1.2
+ }
+}
+SCR_DestructibleBuildingEntity : "{7F62EAEE021C9234}Prefabs/Structures/Infrastructure/Naval/Piers/Pier_03.et" {
+ coords 5971.728 3.945 7844.627
+}
+$grp GenericEntity : "{845121AC14BBF7FB}PrefabLibrary/Rocks/Granite/GraniteRock_03/GraniteRock_03_Forest.et" {
+ {
+  coords 5977.503 -6.211 7811.552
+  angleY 140.505
+  scale 1.695
+ }
+ {
+  coords 6003.476 -5.72 7812.791
+  angleY -13.347
+  scale 1.65
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{85CE0F68DA969A31}Prefabs/Structures/Infrastructure/Naval/SeaBollards/SeaBollard_01.et" {
+ {
+  components {
+   Hierarchy "{50B87EFBB2BAB285}" {
+    Enabled 1
+    PivotID "socket_bollard_004"
+    AutoTransform 1
+   }
+  }
+  coords 5994.638 13.465 7872.369
+  angleY 90
+ }
+ {
+  components {
+   Hierarchy "{50B87EFBB2BAB285}" {
+    Enabled 1
+    PivotID "socket_bollard_004"
+    AutoTransform 1
+   }
+  }
+  coords 5994.641 13.349 7880.789
+  angleY 90
+ }
+ {
+  components {
+   Hierarchy "{50B87EFBB2BAB285}" {
+    Enabled 1
+    PivotID "socket_bollard_003"
+    AutoTransform 1
+   }
+  }
+  coords 5990.891 14.041 7887.406
+ }
+ {
+  components {
+   Hierarchy "{50B87EFBB2BAB285}" {
+    Enabled 1
+    PivotID "socket_bollard_003"
+    AutoTransform 1
+   }
+  }
+  coords 5983.384 13.434 7887.429
+ }
+ {
+  components {
+   Hierarchy "{50B87EFBB2BAB285}" {
+    Enabled 1
+    PivotID "socket_bollard_003"
+    AutoTransform 1
+   }
+  }
+  coords 5975.329 13.337 7887.32
+ }
+ {
+  components {
+   Hierarchy "{50B87EFBB2BAB285}" {
+    Enabled 1
+    PivotID "socket_bollard_003"
+    AutoTransform 1
+   }
+  }
+  coords 5967.782 12.948 7887.3
+ }
+}
+$grp GenericEntity : "{9633134198F3AB1A}Prefabs/Rocks/Granite/GraniteRock_01.et" {
+ {
+  coords 6058.409 1.22 7830.458
+ }
+ {
+  coords 6087.415 1.542 7830.087
+  angleY -4.122
+ }
+ {
+  coords 6107.915 1.737 7850.03
+  angleY 14.758
+ }
+ {
+  coords 6110.271 -0.964 7877.312
+  angleY -90.332
+ }
+ {
+  coords 6114.696 -1.852 7904.611
+ }
+ {
+  coords 6117.833 -1.531 7923.584
+  scale 0.63
+ }
+ {
+  coords 6124.95 -0.665 7929.62
+  scale 0.6
+ }
+ {
+  coords 6115.239 0.065 7928.493
+  scale 0.5
+ }
+ {
+  coords 6119.522 2.019 7921.537
+  angleY -27.954
+  scale 0.26
+ }
+ {
+  coords 6118.042 0.556 7922.482
+  angleY 113.254
+  scale 0.26
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{9AFEA6170EF9055F}Prefabs/Structures/Infrastructure/Naval/Piers/Pier_02.et" {
+ {
+  coords 5990.048 -6.304 7862.609
+  angleY -90
+  scale 1.5
+ }
+ {
+  coords 5957.711 -4.768 7874.093
+  angleY 90
+  scale 0.9
+ }
+ {
+  coords 5957.709 -4.768 7868.715
+  angleY 90
+  scale 0.9
+ }
+ {
+  coords 5957.711 -4.768 7879.526
+  angleY 90
+  scale 0.9
+ }
+ {
+  coords 5957.711 -4.768 7884.929
+  angleY 90
+  scale 0.9
+ }
+ {
+  coords 5951.999 -4.768 7868.671
+  angleY 90
+  scale 0.9
+ }
+ {
+  coords 5952 -4.768 7884.884
+  angleY 90
+  scale 0.9
+ }
+ {
+  coords 5952 -4.768 7879.481
+  angleY 90
+  scale 0.9
+ }
+ {
+  coords 5952 -4.768 7874.048
+  angleY 90
+  scale 0.9
+ }
+ {
+  coords 5946.249 -4.797 7868.649
+  angleY 90
+  scale 0.9
+ }
+ {
+  coords 5946.25 -4.797 7884.862
+  angleY 90
+  scale 0.9
+ }
+ {
+  coords 5946.25 -4.797 7879.458
+  angleY 90
+  scale 0.9
+ }
+ {
+  coords 5946.25 -4.797 7874.026
+  angleY 90
+  scale 0.9
+ }
+}
+SCR_DestructibleBuildingEntity : "{C8B1CE6D730FD227}PrefabLibrary/Infrastructure/Naval/Pier_02.et" {
+ coords 5962.033 -5.313 7868.31
+}
+$grp GenericEntity : "{D9D20C6C33517ED5}Prefabs/Rocks/Granite/GraniteRock_03_Forest.et" {
+ {
+  coords 6024.519 -2.065 7827.668
+  angleY 152.63
+ }
+ {
+  coords 6035.613 -5.458 7823.785
+  angleY 159.078
+ }
+ {
+  coords 6059.313 -3.354 7824.106
+  angleY 154.789
+ }
+ {
+  coords 6086.291 -2.745 7824.044
+  angleY 166.531
+  scale 1.03
+ }
+ {
+  coords 6116.428 -4.843 7848.506
+  angleY -106.656
+  scale 1.272
+ }
+ {
+  coords 6098.352 -3.244 7860.25
+  angleY -48.933
+  scale 1.03
+ }
+ {
+  coords 6099.161 -5.594 7878.153
+  angleY -113.053
+ }
+ {
+  coords 6118.095 -3.528 7872.883
+  angleY -97.124
+ }
+ {
+  coords 6128.739 -4.109 7925.708
+  angleY -90.863
+ }
+ {
+  coords 6114.622 -2.369 7932.861
+  angleY 104.076
+  scale 0.75
+ }
+ {
+  coords 6113.34 -2.579 7918.71
+  angleY -99.024
+  scale 0.7
+ }
+ {
+  coords 6107.611 -12.439 7939.084
+  angleY 105.275
+ }
+ {
+  coords 6103.277 -14.084 7923.595
+  angleY -102.601
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{DB3F36604A282237}Prefabs/Structures/Infrastructure/Naval/Piers/PierConcrete_01_20m.et" {
+ {
+  coords 5991.445 -1.064 7843.651
+  scale 2
+  AdjustHeightMap 1
+ }
+ {
+  coords 6031.442 -1.064 7843.651
+  scale 2
+ }
+ {
+  coords 6071.435 -1.064 7843.651
+  scale 2
+ }
+}
+$grp GenericEntity : "{F4DF7DEDAB805624}PrefabLibrary/Rocks/Granite/GraniteRock_03/GraniteRock_03.et" {
+ {
+  coords 5977.915 -1.63 7817.345
+  angleY -37.845
+  scale 1.2
+ }
+ {
+  coords 5996.251 -0.367 7831.656
+  angleY 176.693
+  scale 1.2
+ }
+}
+GenericEntity : "{F513D99A28A5E5E3}Prefabs/Props/Recreation/Beach/PedalBoat_01/PedalBoat_01_blue.et" {
+ coords 5949.176 -0.047 7878.308
+}
+$grp SCR_DestructibleBuildingEntity : "{F6AA92F7B23D8A71}Prefabs/Structures/Infrastructure/Naval/Piers/Pier_01.et" {
+ {
+  coords 5990.374 -8.365 7874.253
+  scale 1.5
+ }
+ {
+  coords 5990.374 -8.365 7883.165
+  scale 1.5
+ }
+ {
+  coords 5981.433 -8.365 7874.253
+  scale 1.5
+ }
+ {
+  coords 5981.433 -8.365 7883.165
+  scale 1.5
+ }
+ {
+  coords 5972.46 -8.365 7874.253
+  scale 1.5
+ }
+ {
+  coords 5972.46 -8.365 7883.165
+  scale 1.5
+ }
+ {
+  coords 5963.517 -8.365 7874.253
+  scale 1.5
+ }
+ {
+  coords 5963.517 -8.365 7883.165
+  scale 1.5
+ }
+ {
+  coords 5965.729 3.958 7844.65
+ }
+ {
+  coords 5959.758 3.958 7844.65
+ }
+}
+$grp GenericEntity : "{FA6727A124372434}Prefabs/Rocks/Granite/GraniteRock_02.et" {
+ {
+  coords 6033.008 -0.959 7831.947
+ }
+ {
+  coords 6102.514 1.386 7852.847
+  angleY -6.179
+  scale 0.95
+ }
+ {
+  coords 6110.668 -1.623 7887.131
+ }
+ {
+  coords 6124.178 -0.88 7933.551
+  scale 0.6
+ }
+}
+SCR_DestructibleBuildingEntity : "{FF6F5211131F41C8}Prefabs/Structures/Infrastructure/Naval/Houses/CottagePier_01_green.et" {
+ coords 5980.479 14.036 7874.991
+ angleY 90
+ {
+  GenericEntity {
+   ID "59CEDD5E6752B640"
+   coords 0 0 0
+  }
+ }
+}
