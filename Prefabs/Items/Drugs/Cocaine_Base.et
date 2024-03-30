@@ -1,0 +1,33 @@
+GenericEntity : "{B26D228CF60863F6}Prefabs/Items/Core/InteractableItem_Base.et" {
+ ID "0000000000000001"
+ components {
+  InventoryItemComponent "{5222EB4D0C73006B}" {
+   Attributes SCR_ItemAttributeCollection "{5222EB4D0A2B466B}" {
+    ItemDisplayName UIInfo "{5222EB4D07D865FA}" {
+     Name "Cocaine"
+     Description "(Illegal)"
+    }
+    ItemPhysAttributes ItemPhysicalAttributes PhysicalAttributes {
+     Weight 0.2
+     SizeSetupStrategy Volume
+     ItemVolume 113
+    }
+    ItemAnimationAttributes ItemAnimationAttributes "{5966FD8070F889C7}" {
+     HandAdditiveRotation 90 0 -90
+     HandAdditiveTranslation 0 0.02 0
+    }
+   }
+  }
+  MeshObject "{5A4ACD10B8DA304F}" {
+   Object "{E6E83E5ED49B9DE5}Assets/Items/Medicine/SalineBag_01/SalineBag_US_01/SalineBag_US_01.xob"
+   Materials {
+    MaterialAssignClass "{60FC2532940B6B96}" {
+     SourceMaterial "SalineBag_US_01"
+     AssignedMaterial "{2102639D3BD0A5CF}Assets/Decals/Markings/Runway/Data/Runway_Line_White.emat"
+    }
+   }
+  }
+ }
+ coords 179.147 0.899 19.666
+ scale 0.6
+}

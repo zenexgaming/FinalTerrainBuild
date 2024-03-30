@@ -1,112 +1,43 @@
-$grp GenericEntity {
- {
-  components {
-   MeshObject "{60FAC43B9EE0B342}" {
-    Object "{82DB58D6480BD552}Assets/Clutter/Vegetation/Mushrooms/c_mushrooms_01.xob"
-   }
-   ActionsManagerComponent "{60FAC43B96EE7F36}" {
-    ActionContexts {
-     UserActionContext "{60FAC43B972002ED}" {
-      UIInfo UIInfo "{60FAC43B857A156F}" {
-       Name "Pick Up Mushrooms"
-      }
-      ContextName "Pick Up"
-      Position PointInfo "{60FAC43B473206A5}" {
-       Offset 0 0.2 0
-      }
-     }
-    }
-    additionalActions {
-     PickupAction "{60FAC438D1BB030C}" {
-      ParentContextList {
-       "Pick Up"
-      }
-      UIInfo UIInfo "{60FAC438D795589F}" {
-       Name "Pick Up Mushrooms"
-      }
-      VisibilityRange 2
-      Duration 1
-     }
-    }
-   }
-  }
-  coords 179.211 0.905 19.52
-  scale 0.6
- }
- {
-  components {
-   MeshObject "{60FAC43B4E0F3B54}" {
-    Object "{31568ECC375344FD}Assets/Items/Medicine/MorphineInjection_01/MorphineInjection_01_full_close.xob"
-   }
-  }
-  coords 178.461 0.9 19.536
- }
+GenericEntity : "{1DD3BF6A1A249CDE}Prefabs/Processor/AppleJuicer.et" {
+ coords 178.56 0.898 19.013
+}
+GenericEntity MagicMushrooms_Base_60FC2533F195C503 : "{200F6BFFED7E953A}Prefabs/Items/Drugs/MagicMushrooms_Base.et" {
+ coords 179.562 0.898 19.712
 }
 GenericEntity : "{53506DCB398C7EBE}Prefabs/Props/Furniture/Table_01.et" {
  coords 179.013 0 19.33
 }
-EL_NpcBaseEntity : "{68C6EB0CCDD55E3F}Prefabs/Characters/Core/Npc_Base.et" {
+GenericEntity Cocaine_Base_60FC28C2F47C6104 : "{B9790E412755B04B}Prefabs/Items/Drugs/Cocaine_Base.et" {
+ coords 179.092 0.898 19.726
+}
+$grp GenericEntity : "{C9D661E5B0714711}Prefabs/Items/Food/Apple.et" {
+ Apple_60FC2306855FC47A {
+  coords 178.637 0.903 19.528
+ }
+ Apple_60FC2306855FC47A2 {
+  coords 178.777 0.904 19.394
+  angleX -19.531
+  angleY -7.902
+  angleZ 22.548
+ }
+ Apple_60FC2306855FC47A3 {
+  coords 178.476 0.898 19.419
+  angleX -0.005
+  angleZ -0.113
+ }
+}
+EL_NpcBaseEntity : "{EC56FA885E67ED4A}Prefabs/Characters/Core/NPC_Davey_Base.et" {
  components {
-  BaseLoadoutManagerComponent "{5A4B0B84C86D5843}" {
-   Slots {
-    LoadoutSlotInfo Jacket {
-     Prefab "{23A15812C40D34C2}Prefabs/Characters/Uniforms/Jacket_Denim_01/Jacket_Civ_Denim_01_Dirty.et"
-    }
-    LoadoutSlotInfo Pants {
-     Prefab "{537FD11C135757AC}Prefabs/Characters/Uniforms/Pants_Trousers_01/Pants_Trousers_01_DarkGrey_Dirty.et"
-    }
-    LoadoutSlotInfo Shoes {
-     Prefab "{C7923961D7235D70}Prefabs/Characters/Footwear/CombatBoots_Soviet_01.et"
-    }
-    LoadoutSlotInfo Head {
-     Prefab "{DD565E2C7E00A5BB}Prefabs/Characters/HeadGear/Hat_FlatCap_01/Hat_FlatCap_01_blue.et"
-    }
-   }
-  }
   ActionsManagerComponent "{5A4B13A9811FB113}" {
    ActionContexts {
-    UserActionContext "{60FAC06F52C08E5A}" {
-     UIInfo UIInfo "{60FAC06F5696AFCF}" {
-      Name "Talk"
+    UserActionContext "{60FC2306C36C6306}" {
+     UIInfo UIInfo "{60FC2306C6E221B5}" {
+      Name "Interact"
      }
-     ContextName "Talk"
-     Position PointInfo "{60FAC06F493E5D4B}" {
-      Offset 0 1.45 0
-     }
-    }
-    UserActionContext "{60FAC06EC844CBE8}" {
-     UIInfo UIInfo "{60FAC06ECCB0F391}" {
-      Name "Trade"
-     }
-     ContextName "Trade"
-     Position PointInfo "{60FAC06ECE10E2AC}" {
-      Offset 0 1.45 0
-     }
-    }
-   }
-   additionalActions {
-    TAG_MyScriptedUserAction "{60FAC43AF5DFD5F1}" {
-     ParentContextList {
-      "Talk"
-     }
-     UIInfo UIInfo "{60FAC43AE39D5651}" {
-      Name "Talk to Davey"
-     }
-     VisibilityRange 2
-     Duration 2
-    }
-    TAG_MyScriptedUserAction "{60FB66EF6CF01DDF}" {
-     ParentContextList {
-      "Talk"
-     }
-     UIInfo UIInfo "{60FB66EF5DA81826}" {
-      Name "Trade Davey"
-     }
-     VisibilityRange 2
-     Duration 2
+     ContextName "Interact"
     }
    }
   }
  }
- coords 180.923 0 19.31
+ coords 180.606 0 19.203
 }
