@@ -22,7 +22,7 @@ $grp GenericEntity {
        "Pick Up"
       }
       UIInfo UIInfo "{60FAC438D795589F}" {
-       Name "Pick Up"
+       Name "Pick Up Mushrooms"
       }
       VisibilityRange 2
       Duration 1
@@ -31,6 +31,7 @@ $grp GenericEntity {
    }
   }
   coords 179.211 0.905 19.52
+  scale 0.6
  }
  {
   components {
@@ -89,17 +90,17 @@ EL_NpcBaseEntity : "{68C6EB0CCDD55E3F}Prefabs/Characters/Core/Npc_Base.et" {
       "Talk"
      }
      UIInfo UIInfo "{60FAC43AE39D5651}" {
-      Name "Talk"
+      Name "Talk to Davey"
      }
      VisibilityRange 2
      Duration 2
     }
-    EL_OpenTraderAction "{60FAC438943B68ED}" {
+    TAG_MyScriptedUserAction "{60FB66EF6CF01DDF}" {
      ParentContextList {
-      "Trade"
+      "Talk"
      }
-     UIInfo UIInfo "{60FAC4388C7375CF}" {
-      Name "Trade"
+     UIInfo UIInfo "{60FB66EF5DA81826}" {
+      Name "Trade Davey"
      }
      VisibilityRange 2
      Duration 2
