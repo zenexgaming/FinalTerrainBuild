@@ -1,22 +1,6 @@
-EL_NpcBaseEntity : "{68C6EB0CCDD55E3F}Prefabs/Characters/Core/Npc_Base.et" {
+EL_NpcBaseEntity : "{EC56FA885E67ED4A}Prefabs/Characters/Core/NPC_Davey_Base.et" {
  ID "5A4B0B84EF6F2840"
  components {
-  BaseLoadoutManagerComponent "{5A4B0B84C86D5843}" {
-   Slots {
-    LoadoutSlotInfo Jacket {
-     Prefab "{23A15812C40D34C2}Prefabs/Characters/Uniforms/Jacket_Denim_01/Jacket_Civ_Denim_01_Dirty.et"
-    }
-    LoadoutSlotInfo Pants {
-     Prefab "{537FD11C135757AC}Prefabs/Characters/Uniforms/Pants_Trousers_01/Pants_Trousers_01_DarkGrey_Dirty.et"
-    }
-    LoadoutSlotInfo Shoes {
-     Prefab "{C7923961D7235D70}Prefabs/Characters/Footwear/CombatBoots_Soviet_01.et"
-    }
-    LoadoutSlotInfo Head {
-     Prefab "{DD565E2C7E00A5BB}Prefabs/Characters/HeadGear/Hat_FlatCap_01/Hat_FlatCap_01_blue.et"
-    }
-   }
-  }
   ActionsManagerComponent "{5A4B13A9811FB113}" {
    ActionContexts {
     UserActionContext "{60FC2306C36C6306}" {
@@ -53,5 +37,5 @@ EL_NpcBaseEntity : "{68C6EB0CCDD55E3F}Prefabs/Characters/Core/Npc_Base.et" {
    }
   }
  }
- coords 180.923 0 19.31
+ coords 180.606 0 19.203
 }

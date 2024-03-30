@@ -1,8 +1,17 @@
+EL_GameModeRoleplay GameMode_Roleplay1 : "{03913608C59017A3}Prefabs/MP/Modes/Roleplay/GameMode_Roleplay.et" {
+ coords 184.455 0 18.698
+}
 GenericEntity : "{1DD3BF6A1A249CDE}Prefabs/Processor/AppleJuicer.et" {
  coords 178.56 0.898 19.013
 }
+SCR_ChimeraCharacter Character_Base_60FC5BB3E7B22319 : "{1F07ABA168DE6F66}Prefabs/Characters/Core/Character_Base.et" {
+ coords 182.32 -0.001 19.376
+}
 GenericEntity MagicMushrooms_Base_60FC2533F195C503 : "{200F6BFFED7E953A}Prefabs/Items/Drugs/MagicMushrooms_Base.et" {
  coords 179.562 0.898 19.712
+}
+Tree : "{391791B1CAE33AFE}Prefabs/Resources/WoodCutting/Pinus_Sylvestris/CuttableTree_Pinus_Sylvestris_2f.et" {
+ coords 175.6 0 19.136
 }
 GenericEntity : "{53506DCB398C7EBE}Prefabs/Props/Furniture/Table_01.et" {
  coords 179.013 0 19.33
@@ -27,17 +36,5 @@ $grp GenericEntity : "{C9D661E5B0714711}Prefabs/Items/Food/Apple.et" {
  }
 }
 EL_NpcBaseEntity : "{EC56FA885E67ED4A}Prefabs/Characters/Core/NPC_Davey_Base.et" {
- components {
-  ActionsManagerComponent "{5A4B13A9811FB113}" {
-   ActionContexts {
-    UserActionContext "{60FC2306C36C6306}" {
-     UIInfo UIInfo "{60FC2306C6E221B5}" {
-      Name "Interact"
-     }
-     ContextName "Interact"
-    }
-   }
-  }
- }
  coords 180.606 0 19.203
 }
