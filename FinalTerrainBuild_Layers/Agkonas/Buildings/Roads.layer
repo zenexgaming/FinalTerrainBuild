@@ -1,0 +1,49 @@
+SplineShapeEntity {
+ coords 7289.312 120.261 11627.437
+ Points {
+  ShapePoint "{60FD71DF3B354238}" {
+   Position 0 0 0
+  }
+  ShapePoint "{60FD71DF3B34A474}" {
+   Position -3.879 1.194 -10.496
+  }
+  ShapePoint "{60FD71DF22EA5B02}" {
+   Position -14.141 8.421 -34.12
+  }
+  ShapePoint "{60FD71DF242C277E}" {
+   Position -20.818 11.905 -47.911
+  }
+  ShapePoint "{60FD71DF244F5EB3}" {
+   Position -11.533 12.707 -57.076
+  }
+ }
+ {
+  RoadGeneratorEntity : "{41CEDBF0493A26A5}PrefabLibrary/Generators/Roads/Dirt/RG_Road_Dirt_02.et" {
+   coords 0 0 0
+   {
+    RoadEntity {
+     ID "556C65569DF42CF7"
+     SplinePoints {
+      ShapePoint "{556C65561A62B78A}" {
+       Position 0 0 0
+      }
+      ShapePoint "{556C65561A62EBA9}" {
+       Position -3.879 1.194 -10.496
+      }
+      ShapePoint "{60FD71DF1F336EC5}" {
+       Position -14.141 8.421 -34.12
+      }
+      ShapePoint "{60FD71DF1F336D53}" {
+       Position -20.818 11.905 -47.911
+      }
+      ShapePoint "{60FD71DF1F336D00}" {
+       Position -11.533 12.707 -57.076
+      }
+     }
+     IsClosedSpline 0
+     Width 4.5
+    }
+   }
+  }
+ }
+}

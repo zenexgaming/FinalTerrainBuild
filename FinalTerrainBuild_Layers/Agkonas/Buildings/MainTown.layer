@@ -1,0 +1,15 @@
+SCR_DestructibleBuildingEntity : "{184042D4EAE59FF5}Prefabs/Structures/Houses/Village/House_Village_E_1I02/House_Village_E_1I02_ruin.et" {
+ coords 7317.65 -0.046 11626.464
+ angleY 49.771
+}
+SCR_DestructibleBuildingEntity : "{5CADC96916FF1CC4}Prefabs/Structures/Houses/Villa/Villa_E_2I01/Villa_E_2I01.et" {
+ coords 7270.121 2.352 11643.955
+ angleY 51.244
+}
+SCR_DestructibleBuildingEntity : "{ACCE1E281C0C1DAB}Prefabs/Structures/Houses/Prefrabricated/House_Prefab_2I02/House_Prefab_2I02t.et" {
+ coords 7347.235 0.183 11634.519
+ angleY -41.676
+}
+SCR_DestructibleBuildingEntity : "{AD57E850A575A54F}Prefabs/Structures/Houses/Village/House_Village_E_1I06/House_Village_E_1I06.et" {
+ coords 7293.454 -0 11573.8
+}
